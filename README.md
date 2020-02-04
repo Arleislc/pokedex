@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/JhonatanNobreBarboza/pokedex)](https://repl.it/github/JhonatanNobreBarboza/pokedex)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
